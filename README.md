@@ -1,4 +1,4 @@
-# Starter Web Repo
+ # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
 
@@ -24,4 +24,4 @@ final section
 
 ### copyright
 
-git training
+git training copyright
