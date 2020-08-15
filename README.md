@@ -10,6 +10,10 @@ Sample website with plenty of files for demos
 
 adding introduction description and section
 
+## purpose
+
+purpose is to make comparisons
+
 ## Deployment
 
 this is deployment section.
